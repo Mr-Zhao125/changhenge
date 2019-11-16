@@ -24,6 +24,6 @@
 ### 1、用户输入不字的截图
 ![image](https://github.com/Mr-Zhao125/changhenge/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191117010103.png)
 ### 2、用户输入空字符的截图
-![image]()
+![image](https://github.com/Mr-Zhao125/changhenge/blob/master/%E7%A9%BA%E5%AD%97%E7%AC%A6%E6%88%AA%E5%9B%BE.png)
 ## 七、编程感想
   通过这次实验我熟练的掌握了如何处理字符串的问题，掌握了string及stringbuffer的用法，另外还学会了如何编写异常处理，知道了该如何自定义异常。
