@@ -22,7 +22,7 @@
 ![image](https://github.com/Mr-Zhao125/changhenge/blob/master/%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.png)
 ## 六、用户截图
 ### 1、用户输入不字的截图
-![image]()
+![image](https://github.com/Mr-Zhao125/changhenge/blob/master/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20191117010103.png)
 ### 2、用户输入空字符的截图
 ![image]()
 ## 七、编程感想
