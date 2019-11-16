@@ -16,6 +16,7 @@
 ## 五、核心代码及注释
 
 ### 1、加入标点符号
+![image](https://github.com/Mr-Zhao125/changhenge/blob/master/%E5%8A%A0%E5%85%A5%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7.png)
 ### 2、统计字符出现次数
 ### 3、异常处理
 ## 六、用户截图
