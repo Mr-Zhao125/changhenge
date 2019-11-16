@@ -18,7 +18,9 @@
 ### 1、加入标点符号
 ![image](https://github.com/Mr-Zhao125/changhenge/blob/master/%E5%8A%A0%E5%85%A5%E6%A0%87%E7%82%B9%E7%AC%A6%E5%8F%B7.png)
 ### 2、统计字符出现次数
+![image](https://github.com/Mr-Zhao125/changhenge/blob/master/%E7%BB%9F%E8%AE%A1%E6%9F%90%E4%B8%AA%E5%AD%97%E7%AC%A6%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0.png)
 ### 3、异常处理
+![image]()
 ## 六、用户截图
 ### 1、用户输入不字的截图
 ### 2、用户输入空字符的截图
